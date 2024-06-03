@@ -1,1 +1,4 @@
-test:
+laravel
+lireware
+tailwind
+alpine
